@@ -1,9 +1,9 @@
 {
   "type": "micro",
   "wake_word": "pepperoni",
-  "author": "bigchungus",
-  "website": "will-d-chen.com",
-  "model": "stream_state_internal_quant.tflite",
+  "author": "big chungus",
+  "website": "https://will-d-chen.com",
+  "model": "./stream_state_internal_quant.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
